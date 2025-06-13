@@ -50,7 +50,7 @@ Este é um projeto composto por duas etapas: a primeira com a calculadora de lac
 2. Cole o código no seu Github desktop ou no terminal do seu VSCode utilizando "git clone url_do_repositório_do_site"
 3. Depois de seguir os passos a cima clique no botão de play localizado no canto superior direito
 4. Caso queira utilizar o Pycharm apenas copie e cole o código localizado no vscode, clique com o botão direito do mouse e vá na função "run"
-5. Para login no código o email é "user@nutrkids.com.br" tanto para a rota do funcionário quanto a do responsável e a senha para ambos é "1234", após isso apenas preencha os questionários aproveite as funções do código. 
+5. Para login no código o email é "user@nutrikids.com.br" tanto para a rota do funcionário quanto a do responsável e a senha para ambos é "1234", após isso apenas preencha os questionários aproveite as funções do código. 
 
 <hr>
 
