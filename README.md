@@ -47,9 +47,9 @@ Este é um projeto composto por duas etapas: a primeira com a calculadora de lac
 **𝘊𝘰𝘮𝘰 𝘌𝘹𝘦𝘤𝘶𝘵𝘢𝘳 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🚑**  
 
 1. Copie o código apresentado quando apertar o botão "<> Code"
-2. Cole o código no seu Github desktop ou no terminal do seu VSCode utilizando "git clone url_do_repositório_do_site"
-3. Depois de seguir os passos a cima clique no botão de play localizado no canto superior direito
-4. Caso queira utilizar o Pycharm apenas copie e cole o código localizado no vscode, clique com o botão direito do mouse e vá na função "run"
+2. Cole o código no seu Github desktop ou no terminal do seu VSCode utilizando "git clone url_do_repositório_do_site".
+3. Depois de seguir os passos a cima clique no botão de play localizado no canto superior direito.
+4. Caso queira utilizar o Pycharm apenas copie e cole o código localizado no vscode, clique com o botão direito do mouse e vá na função "run".
 5. Para login no código o email é "user@nutrikids.com.br" tanto para a rota do funcionário quanto a do responsável e a senha para ambos é "1234", após isso apenas preencha os questionários aproveite as funções do código. 
 
 <hr>
@@ -65,6 +65,3 @@ Este é um projeto composto por duas etapas: a primeira com a calculadora de lac
 - 𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗   https://www.linkedin.com/in/mariaeduardaferres/
 
 <hr>
-
-**𝙻𝚒𝚌𝚎𝚗𝚌̧𝚊🏛️**  
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
