@@ -46,7 +46,7 @@ Este é um projeto composto por duas etapas: a primeira com a calculadora de lac
 
 **𝘊𝘰𝘮𝘰 𝘌𝘹𝘦𝘤𝘶𝘵𝘢𝘳 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🚑**  
 
-1. Copie o códgo apresentado quando apertar o botão "<> Code"
+1. Copie o código apresentado quando apertar o botão "<> Code"
 2. Cole o código no seu Github desktop ou no terminal do seu VSCode utilizando "git clone url_do_repositório_do_site"
 3. Depois de seguir os passos a cima clique no botão de play localizado no canto superior direito
 4. Caso queira utilizar o Pycharm apenas copie e cole o código localizado no vscode, clique com o botão direito do mouse e vá na função "run"
