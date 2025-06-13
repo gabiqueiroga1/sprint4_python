@@ -33,7 +33,7 @@ Este é um projeto composto por duas etapas: a primeira com a calculadora de lac
 
 **𝘝𝘪́𝘥𝘦𝘰 𝘌𝘹𝘱𝘭𝘪𝘤𝘢𝘯𝘥𝘰 𝘰 𝘗𝘳𝘰𝘫𝘦𝘵𝘰🚑**
 
-- (Colocar aqui!!)
+- https://www.youtube.com/watch?v=FcHbmsdnUoM
 
 <hr>
 
